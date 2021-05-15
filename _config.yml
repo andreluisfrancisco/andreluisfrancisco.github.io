@@ -10,8 +10,7 @@ title: André Luis Francisco
 tagline: "DevOps Engineer"
 picture: andreluis.jpg #keep a 100x100 image inside images folder.
 email: andreluis.francisco@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Yudish is a minimal Jekyll theme for content oriented websites with less distractions.
+description: Yudish is a minimal Jekyll theme for content oriented websites with less distractions.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "andreluisfrancisco.github.io" # the base hostname & protocol for your site
 brand-color: "#e74c3c"
